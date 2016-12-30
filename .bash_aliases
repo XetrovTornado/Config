@@ -1,0 +1,11 @@
+alias acs='apt search'
+alias ai='sudo apt install'
+alias rm='rm -rfvI'
+alias mkdir='mkdir -vp'
+alias mv='mv -vi'
+alias cp='cp -vi'
+alias ..='cd ..'
+alias ~='cd ~'
+alias p3='python3'
+alias shutdown='sudo shutdown now'
+alias cdp="cd ~/PyFi/python"
